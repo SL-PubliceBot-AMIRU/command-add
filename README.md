@@ -4,7 +4,7 @@
 
 ![logo](https://telegra.ph/file/b003945dfcfda709be866.jpg)
 
-
+![logo](https://i.ibb.co/9Znvnyj/Screenshot-3.png)
 
 ## Github Account එකක් තාම හදාගෙන නැත්නම් පහල Link එකෙන් හදාගන්න
 https://github.com/signup
