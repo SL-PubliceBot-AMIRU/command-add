@@ -16,11 +16,15 @@ https://github.com/signup
 
 ✒[STEP 02]
 ### 🔳කෝඩ් එක කොපි කරගත්තට පස්සෙ ඔයා පහල Button එක ඔබලා Gists එකට Login වෙන්න.
+
+![logo](https://i.ibb.co/HVzYvgD/Screenshot-4.png)
+![logo](https://i.ibb.co/9Znvnyj/Screenshot-3.png)
 </a>
   <a href="https://gist.github.com/">
     <img src="https://img.shields.io/badge/CLICK-gists%20github%20-purple&style=plastic">
     <img src="https://img.shields.io/static/v1?label=CLICK&message=Gists%20X&color=purple&style=plastic">
 
+ 
   </a>
 
 $ `මොනවා හරි ගැටලුවක් ආවොත් පහල Number එක දාන්නම් Whatsapp ඇවිත් අහන්න පුලුවන් උදව්වක් දෙන්නම්🙇`
