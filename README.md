@@ -1,7 +1,5 @@
 # command-add
 
-
-@@ -1,5 +1,29 @@
 <h1 align="center"><b> 😻How To Create Own Whatsapp Bot plugging!!  </b></h1>
 
 ![logo](https://telegra.ph/file/b003945dfcfda709be866.jpg)
@@ -25,10 +23,9 @@ https://github.com/signup
 
   </a>
 
-## 🔏වීඩියො එකේ විදිහට ඉතුරු ටික හදාගන්න🙂
 $ `මොනවා හරි ගැටලුවක් ආවොත් පහල Number එක දාන්නම් Whatsapp ඇවිත් අහන්න පුලුවන් උදව්වක් දෙන්නම්🙇`
 </a>
-  <a href="https://wa.me/94786598862">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+  <a href="https://wa.me/94750533989">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Amiru%20Pasandul%20-purple&style=plastic">
 
   </a>
